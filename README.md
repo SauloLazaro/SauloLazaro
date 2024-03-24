@@ -2,9 +2,8 @@
 - 👀 I’m interested in aprender a programar e me desenvolver como um profissional que atua na area. 
 - 🌱 I’m currently learning JavaScrip,  Html e Css. 
 - 💞️ I’m looking to collaborate on qualquer tipo de projeto em que eu possa aprender e agregar valor a equipe. 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me saulolazaro.dev@gmail.com
+
 
 <!---
 SauloLazaro/SauloLazaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
