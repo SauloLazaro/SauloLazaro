@@ -1,11 +1,29 @@
-- 👋 Hi, I’m @SauloLazaro
-- 👀 I’m interested in aprender a programar e me desenvolver como um profissional que atua na area. 
-- 🌱 I’m currently learning JavaScrip,  Html e Css. 
-- 💞️ I’m looking to collaborate on qualquer tipo de projeto em que eu possa aprender e agregar valor a equipe. 
-- 📫 How to reach me saulolazaro.dev@gmail.com
 
+  ## 👨🏼‍💻OLÁ! EU SOU SAULO. 
 
-<!---
-SauloLazaro/SauloLazaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  Desenvolverdor Java iniciante. 
+  
+  
+
+<br/>
+<div align="center">
+  <a href="https://github.com/SauloLazaro">
+    <img height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=SauloLazaro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+    />
+    <img height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SauloLazaro&layout=compact&langs_count=7&theme=dracula"
+    />
+  </a>
+</divisão>
+
+## Habilidades
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+![Snake animation](https://github.com/HigorSnt/HigorSnt/blob/output/github-contribution-grid-snake.svg)
