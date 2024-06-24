@@ -1,29 +1,42 @@
+  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=SauoLazaro.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
-  ## 👨🏼‍💻OLÁ! EU SOU SAULO. 
+  <horas>
 
-  Desenvolverdor Java iniciante. 
+  # <h1>👨🏼‍💻OLÁ! EU SOU SAULO.</h1>
+-----
+
+ *  _Estudante de programação pela Alura._
+ *  _Aspirante desenvolvedor Back End Java._
+ *  _Ánalise e Desenvolvimento de Sistemas._
   
-  
-
-<br/>
-<div align="center">
-  <a href="https://github.com/SauloLazaro">
-    <img height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=SauloLazaro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-    />
-    <img height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SauloLazaro&layout=compact&langs_count=7&theme=dracula"
-    />
+-----
+   <h2>🌐 Socials:</h2> <h2>
+     
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saulo-l%C3%A1zaro-762765206/)
   </a>
-</divisão>
+  <a href="mailto:saulolazaro96@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+</a>
 
-## Habilidades
+-----
+#
+   🚀 Sou um Desenvolvedor de Software apaixonado por tecnologia, natural de Minas Gerais.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  🤝 Tenho experiencia de 10 anos na area comercial e atendimento ao cliente, onde desenvolvi habilidades interpessoais valiosas, como comunicação, trabalho em equipe, resolução de problemas e empatia, que             aplico em todas as áreas da minha vida.
+ 
+ 🎯 Meus objetivos profissionais estão focados na área de desenvolvimento de software, Meu compromisso é com a aprendizagem contínua.
+   
+   ## Resumo das Minhas Atividades.
 
-![Snake animation](https://github.com/HigorSnt/HigorSnt/blob/output/github-contribution-grid-snake.svg)
+[![SauloLazaro GitHub stats](https://github-readme-stats.vercel.app/api?username=SauloLazaro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SauloLazaro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
+ <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div>
+
+<hr>
+
+<div align="center"><br>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Obrigado+pela+visita!😎;+Fale+comigo+no+Linkedin;+Até+a+próxima!👋" />
+</div>
