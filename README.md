@@ -53,8 +53,8 @@
 
    ## Resumo das Minhas Atividades.
 
-[![SauloLazaro GitHub stats](https://github-readme-stats.vercel.app/api?username=SauloLazaro&show_icons=true&theme=dark)](https://github.com/SauloLazaro/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SauloLazaro&show_icons=true&theme=dark)](https://github.com/SauloLazaro/github-readme-stats)
+[![SauloLazaro GitHub stats](https://github-readme-stats.vercel.app/api?username=SauloLazaro&show_icons=true&theme=dracula)](https://github.com/SauloLazaro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SauloLazaro&show_icons=true&theme=dracula)](https://github.com/SauloLazaro/github-readme-stats)
   
 
 
