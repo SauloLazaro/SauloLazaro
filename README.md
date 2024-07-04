@@ -30,7 +30,7 @@
   
   ⚙️ Fiz transição da area comercial para a area de tecnologia. 
     
-  🤝 Tenho experiencia de quase 10 anos na area comercial e atendimento ao cliente, onde desenvolvi habilidades interpessoais valiosas, como comunicação, trabalho em equipe, resolução de problemas e empatia, que    aplico em todas as áreas da minha vida. 
+  🤝 Tenho experiencia de quase 10 anos na area comercial e atendimento ao cliente, onde desenvolvi habilidades interpessoais valiosas, como comunicação, trabalho em equipe, resolução de problemas e empatia,        que aplico em todas as áreas da minha vida. 
  
  🎯 Meus objetivos profissionais estão focados na área de desenvolvimento de software, meu compromisso é com a aprendizagem contínua.
 
@@ -53,8 +53,8 @@
 
    ## Resumo das Minhas Atividades.
 
-[![SauloLazaro GitHub stats](https://github-readme-stats.vercel.app/api?username=SauloLazaro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SauloLazaro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![SauloLazaro GitHub stats](https://github-readme-stats.vercel.app/api?username=SauloLazaro&show_icons=true&theme=dark)](https://github.com/SauloLazaro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SauloLazaro&show_icons=true&theme=dark)](https://github.com/SauloLazaro/github-readme-stats)
   
 
 
